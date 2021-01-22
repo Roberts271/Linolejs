@@ -1,0 +1,89 @@
+#logo{
+    position: absolute;
+    left:50px ;
+    top: 50px;
+
+}
+#informācija{
+    position: absolute;
+    left: 500px ;
+    top: 80px ;
+    background-size: auto;
+    width: 350px;
+    height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border-style: solid;
+}
+#produkts{
+    position: absolute;
+    left: 70px ;
+    top: 200px ;
+    background-size: auto;
+    width: 300px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border-style: solid;
+}
+#produkts1{
+    position: absolute;
+    left: 70px ;
+    top: 300px ;
+    background-size: auto;
+    width: 300px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border-style: solid;
+}
+#produkts2{
+    position: absolute;
+    left: 70px ;
+    top: 400px ;
+    background-size: auto;
+    width: 300px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border-style: solid;
+}
+#produkts3{
+    position: absolute;
+    left: 70px ;
+    top: 500px ;
+    background-size: auto;
+    width: 300px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border-style: solid;
+}
+#produkts4{
+    position: absolute;
+    left: 70px ;
+    top: 600px ;
+    background-size: auto;
+    width: 300px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    border-style: solid;
+}
+#bilde{
+    border-style: solid;
+    position: absolute;
+    left: 500px ;
+    top: 300px ;
+    width: 350px;
+    height: 80px;
+    text-align: center;
+    padding: 100px;
+}
+#poga{
+    position: absolute;
+    right:100px ;
+    top: 650px;
+    width: 200px;
+    height: 60px;
+}
