@@ -2,7 +2,7 @@
     position: absolute;
     left:50px ;
     top: 50px;
-
+    background-color: blue;
 }
 #informācija{
     position: absolute;
@@ -79,6 +79,8 @@
     height: 80px;
     text-align: center;
     padding: 100px;
+    
+    
 }
 #poga{
     position: absolute;
@@ -86,4 +88,20 @@
     top: 650px;
     width: 200px;
     height: 60px;
+}
+#kon{
+    background-color: cornflowerblue;
+    
+}
+.container {
+    height: 120px;
+    width: 350px;
+    top: 300px;
+}
+.container img {
+    width: 560px;
+    height: 290px;
+    position: absolute; 
+    left: 500px;
+    top: 300px;
 }
